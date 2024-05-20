@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dajvazi
 - 👀 I’m interested in learning more about Android App Development.
-- 🌱 I’m currently learning kotlin and c++
+- 🌱 I’m currently learning Kotlin and c++
 - 📫 How to reach me: Email: donart.ajvazi@hotmail.com
 
 <!---
